@@ -1,0 +1,353 @@
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\appsettings.Development.json
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\appsettings.json
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\TrackifyApis.staticwebassets.endpoints.json
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\TrackifyApis.exe
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\TrackifyApis.deps.json
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\TrackifyApis.runtimeconfig.json
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\TrackifyApis.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\TrackifyApis.pdb
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Azure.Core.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Azure.Identity.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Humanizer.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.ClientModel.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.CodeDom.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Memory.Data.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Text.Json.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.csproj.AssemblyReference.cache
+C:\WEBAPIS\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEBAPIS\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.AssemblyInfoInputs.cache
+C:\WEBAPIS\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.AssemblyInfo.cs
+C:\WEBAPIS\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.csproj.CoreCompileInputs.cache
+C:\WEBAPIS\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.MvcApplicationPartsAssemblyInfo.cs
+C:\WEBAPIS\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.MvcApplicationPartsAssemblyInfo.cache
+C:\WEBAPIS\TrackifyApis\TrackifyApis\obj\Debug\net8.0\scopedcss\bundle\TrackifyApis.styles.css
+C:\WEBAPIS\TrackifyApis\TrackifyApis\obj\Debug\net8.0\staticwebassets.build.json
+C:\WEBAPIS\TrackifyApis\TrackifyApis\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\WEBAPIS\TrackifyApis\TrackifyApis\obj\Debug\net8.0\staticwebassets.development.json
+C:\WEBAPIS\TrackifyApis\TrackifyApis\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\WEBAPIS\TrackifyApis\TrackifyApis\obj\Debug\net8.0\Trackify.2CBF8822.Up2Date
+C:\WEBAPIS\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\obj\Debug\net8.0\refint\TrackifyApis.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.pdb
+C:\WEBAPIS\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.genruntimeconfig.cache
+C:\WEBAPIS\TrackifyApis\TrackifyApis\obj\Debug\net8.0\ref\TrackifyApis.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\WEBAPIS\TrackifyApis\TrackifyApis\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\appsettings.Development.json
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\appsettings.json
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\TrackifyApis.staticwebassets.endpoints.json
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\TrackifyApis.exe
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\TrackifyApis.deps.json
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\TrackifyApis.runtimeconfig.json
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\TrackifyApis.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\TrackifyApis.pdb
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Azure.Core.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Azure.Identity.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Humanizer.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.ClientModel.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.CodeDom.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Memory.Data.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Text.Json.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.csproj.AssemblyReference.cache
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.AssemblyInfoInputs.cache
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.AssemblyInfo.cs
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.csproj.CoreCompileInputs.cache
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.MvcApplicationPartsAssemblyInfo.cs
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.MvcApplicationPartsAssemblyInfo.cache
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.sourcelink.json
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\scopedcss\bundle\TrackifyApis.styles.css
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\staticwebassets.build.json
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\staticwebassets.development.json
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\Trackify.2CBF8822.Up2Date
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\refint\TrackifyApis.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.pdb
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\TrackifyApis.genruntimeconfig.cache
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\ref\TrackifyApis.dll
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\WEBAPIS\Trackify Project\TrackifyApis\TrackifyApis\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
